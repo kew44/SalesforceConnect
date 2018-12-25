@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="S:/exe files/spring-framework-4.3.2.RELEASE-dist/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="S:/exe files/spring-framework-4.3.2.RELEASE-dist/json-20140107.jar"/>
+	<classpathentry kind="lib" path="S:/exe files/spring-framework-4.3.2.RELEASE-dist/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="S:/exe files/spring-framework-4.3.2.RELEASE-dist/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="S:/exe files/spring-framework-4.3.2.RELEASE-dist/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="S:/exe files/spring-framework-4.3.2.RELEASE-dist/ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
